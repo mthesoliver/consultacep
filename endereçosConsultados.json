@@ -1,0 +1,16 @@
+[
+  {
+    "cep": "01527-020",
+    "logradouro": "Rua Diogo Vaz",
+    "bairro": "Cambuci",
+    "localidade": "São Paulo",
+    "uf": "SP"
+  },
+  {
+    "cep": "36036-230",
+    "logradouro": "Rua José Lourenço",
+    "bairro": "São Pedro",
+    "localidade": "Juiz de Fora",
+    "uf": "MG"
+  }
+]
