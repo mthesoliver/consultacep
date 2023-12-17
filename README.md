@@ -5,7 +5,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Consumindo API ViaCEP**
-| :label: Tecnologias | java (tecnologias utilizadas)
+| :label: Tecnologias | java
 | :rocket: URL         | https://github.com/mthesoliver/consultacep
 | :fire: Desafio     | N/A
 
